@@ -7,10 +7,11 @@
 * subject_train.txt:  Each row identifies the subject who performed the activity for each window sample. <br>Its range is from 1 to 30. <br>
 * x_test.txt: Test set.<br>
 * y_test.txt: Test labels.<br>
-* subject_test.txt<br><br>
-* features.txt: List of all features.<br>
-All data was merged and reshaped to create _tidyData.txt_
-<br>
+* subject_test.txt<br>
+* features.txt: List of all features.<br><br>
+
+All data was merged and reshaped to create _tidyData.txt_<br>
+
 ### Identifiers
 Subject<br>
 Activity
