@@ -1,7 +1,8 @@
 #### getdata-033_Project
 ##Getting and Cleaning Data Course Project
-Data gathered from experiments that were carried out with a group of 30 subjects. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist<br>
-Goal of this project is to create an R script named run_analysis.R that performs the following tasks.
+Data gathered from experiments that were carried out with a group of 30 subjects. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.<br>
+
+Goal of this project is to create an R script named __run_analysis.R__ that performs the following tasks.
 
 1. Reads in all relevant data.
 2. Merges the training and the test sets to create one data set.
