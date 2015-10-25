@@ -2,13 +2,13 @@
 ## Code Book
 <br>
 ### Files
-x_train.txt<br>
-y_train.txt<br>
-subject_train.txt<br>
-x_test.txt<br>
-y_test.txt<br>
-subject_test.txt<br><br>
-
+*x_train.txt: Training set.<br>
+*y_train.txt: Training labels.<br>
+*subject_train.txt:  Each row identifies the subject who performed the activity for each window sample. <br>Its range is from 1 to 30. <br>
+*x_test.txt: Test set.<br>
+*y_test.txt: Test labels.<br>
+*subject_test.txt<br><br>
+*features.txt: List of all features.<br>
 All data was merged and reshaped to create _tidyData.txt_
 <br>
 ### Identifiers
