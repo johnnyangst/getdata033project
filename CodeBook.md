@@ -15,7 +15,7 @@ All data was merged and reshaped to create _tidyData.txt_
 Subject<br>
 Activity
 
-### Measurement Criteria
+### Measurement List
 tBodyAcc-mean()-X<br>
 tBodyAcc-mean()-Y<br>
 tBodyAcc-mean()-Z<br>
